@@ -1,0 +1,17 @@
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\bin\Debug\Modbus TCP Sandbox.exe.config
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\bin\Debug\Modbus TCP Sandbox.exe
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\bin\Debug\Modbus TCP Sandbox.pdb
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\bin\Debug\EasyModbus.dll
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.csprojAssemblyReference.cache
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\MainWindow.g.cs
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\App.g.cs
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox_MarkupCompile.cache
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox_MarkupCompile.lref
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\MainWindow.baml
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.g.resources
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus_TCP_Sandbox.Properties.Resources.resources
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.csproj.GenerateResource.cache
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.csproj.CoreCompileInputs.cache
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.csproj.CopyComplete
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.exe
+c:\users\dsdev\source\repos\Modbus TCP Sandbox\Modbus TCP Sandbox\obj\Debug\Modbus TCP Sandbox.pdb
